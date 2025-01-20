@@ -1,0 +1,59 @@
+header{
+    background-color: #ff6666;
+    width: 660px;
+    height: 40px;
+}
+footer{
+    background-color: #0066cc;
+    width: 660px;
+    height: 20px;
+}
+#dieren{
+    background-color: #ffff00;
+}
+#afb_dieren{
+    background-color: #ffcc00;
+}
+#activiteit{
+    background-color: #ff9900;
+}
+#afb_activiteit{
+    background-color: #ff6600;
+}
+#panter{
+    background-color: #ccff00;
+}
+#afb_panter{
+    background-color: #cc99cc;
+}
+#aap{
+    background-color: #cc3333;
+}
+#afb_aap{
+    background-color: #66ccff;
+}
+#koe{
+    background-color: #ff9900;
+}
+#afb_koe{
+    background-color: #cc0033;
+}
+#dans{
+    background-color: #33cccc;
+}
+#afb_dans{
+    background-color: #99ffcc;
+}
+#drum{
+    background-color: #ff99ff;
+}
+#afb_drum{
+    background-color: #ffff66;
+}
+#kora{
+    background-color: #0099cc;
+}
+#afb_kora{
+    background-color: #66cc66;
+}
+
