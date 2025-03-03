@@ -1,0 +1,177 @@
+body{
+    background-color: orange;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-family: "Exo 2", serif;
+    font-style: normal;
+}
+header{
+    text-align: center;
+    background-color:rgb(0, 119, 255) ;
+    height: 46px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px  rgb(5, 5, 80); 
+}
+#header{
+    margin-left: 55px;
+    margin-right: 55px;
+}
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+    padding: 12px;
+    background-color: rgb(0, 119, 255);
+    border-radius: 10px;
+    height: 21px;
+    width: 90px;
+    display: inline-block;
+    font-family: "Playwrite IT Moderna", serif;
+    font-size: 13px;
+    font-style: normal;
+}
+li:hover{
+    background-color:rgb(0, 183, 255) ;
+    box-shadow: 2px 2px 2px  rgb(5, 5, 80);
+    border-radius: 10px;
+    font-family: "Playwrite IT Moderna", serif;
+    font-size: 13px;
+    font-style: italic; 
+    font-weight: bold;
+    color: yellow;
+}
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    height: 21px;
+    width: 100px;
+    
+}
+a:hover{
+    color: yellow;
+}
+h3{
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-family: "Exo 2", serif;
+    font-style: normal;
+}
+p{
+    background-color: white;
+    margin-left: 55px;
+    margin-right: 55px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Amatic SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    min-height: 185px;
+    border-radius: 10px;
+}
+img{
+    width: 150px; 
+    float: right;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 2px 2px 2px  rgb(5, 5, 80);
+}
+#table{
+    background-color: bisque;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-bottom: 20px;
+    font-family: "Amatic SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+table{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;  
+}
+tbody{
+    text-align: center;
+    
+}
+th{
+    background-color:rgb(0, 119, 255)  ;
+    width: 33%;
+    color: white;
+    border-radius: 10px;
+    font-family: "Playwrite IT Moderna", serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight:400;
+}
+td{
+    background-color: white;
+    border-radius: 10px;
+}
+form{
+    background-color: white;
+    text-align: center;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+input{
+    font-family: "Amatic SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+    border-color: rgb(0, 119, 255) ;
+    border-width: 3px;
+}
+textarea{
+    font-family: "Amatic SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    border-color: rgb(0, 119, 255) ;
+    border-width: 3px;
+}
+footer{
+    background-color:rgb(0, 119, 255) ;
+    text-align: center;
+    padding: 5px;
+    margin-left: 55px;
+    margin-right: 55px;
+    font-family: "Playwrite IT Moderna", serif;
+    font-size: 13px;
+    font-style: normal;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px  rgb(5, 5, 80);
+    color: white;
+}
+.verzendknop:active{
+    background-color: rgb(0, 119, 255)  ;
+}
