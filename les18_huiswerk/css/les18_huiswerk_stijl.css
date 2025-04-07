@@ -1,0 +1,145 @@
+body{
+    margin: 0px;
+}
+header{
+    padding-left: 20px;
+    height: 150px;
+    color: white;
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;  
+    font-size: 50px;
+    background-image: url(../beeld/utrecht_uitsnede_01.png);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media only screen and (min-width: 768px){
+    footer{
+    height: 30px;
+    padding-left: 20px;
+    background-color: aquamarine;
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;  
+    font-size: 20px;
+    clear: left;
+}
+}
+footer{
+    padding-left: 20px;
+    background-color: bisque;
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;  
+    font-size: 20px;
+    clear: left;
+}
+[class*=col-]{
+    width: 100%;
+    font-family: "Quicksand", sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+}
+@media only screen and (min-width: 768px){
+    [class*=col-]{
+    float: left;
+    font-family: "Quicksand", sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+}  
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+}
+@media only screen and (min-width: 768px){
+        .col-2{
+    background-color:yellowgreen;
+    height: 450px;
+}
+}
+.col-2{
+    background-color:yellowgreen;
+
+}
+ul{
+font-size:14px;
+
+}
+.col-9{
+    background-color: red;
+}
+#feitjes{
+    float: left; 
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:yellowgreen;
+}
+@media only screen and (min-width: 768px){
+    img{
+    float: right;
+    width: 200px;
+    margin-right: 10px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 2px solid bisque;
+    padding: 5px;
+}
+}
+img{
+    width: 200px;
+    margin-right: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 2px solid bisque;
+    padding: 5px;
+    
+}
+p, h3{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+@media only screen and (min-width: 768px){
+    #artikeleen{
+    float: left;
+    background-color: olivedrab;
+    color: white;
+    width: 50%;
+    height: 450px;
+}
+#artikeltwee{
+    float: left;
+    background-color: rgb(88, 121, 21);
+    color: white;
+    width: 50%;
+    height: 450px;
+}
+}
+#artikeleen{
+    float: left;
+    background-color: olivedrab;
+    color: white;
+}
+#artikeltwee{
+    float: left;
+    background-color: rgb(88, 121, 21);
+    color: white;
+}
